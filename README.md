@@ -29,7 +29,7 @@ Este projeto visa apresentar de forma clara e prática os principais componentes
 
 1. Faça o download ou clone este repositório:
    ```bash
-   git clone https://github.com/vinisique/data-science-ecosystem.git
+   git clone https://github.com/vinisique/DataScienceEcosystem.git
    ```
 2. Certifique-se de ter o Python e o Jupyter Notebook instalados.
 3. Abra os notebooks no Jupyter:
